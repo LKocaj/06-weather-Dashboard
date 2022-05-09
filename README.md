@@ -4,7 +4,7 @@
 
 This weather dashboard will show current conditions as well as a 5 day forecast for the area you type in. If you click on a saved city that has been previously typed in, the website shoould react as if a search was made. 
 
-<img src="/desktop/projects/weather-dash-screen.png" alt="Alt text" title="A Weather Dashboard screenshot">
+<img src="./desktop/projects/weather-dash-screen.png" alt="Alt text" title="A Weather Dashboard screenshot">
 
 
 ## Built with:
